@@ -1,0 +1,5 @@
+{
+  "version": "v1",
+  "status": "error",
+  "error_message": "Missing required column 'close' in csv"
+}
