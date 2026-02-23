@@ -1,6 +1,0 @@
-2026-02-20 16:43:10 - INFO - job Started
-2026-02-20 16:43:10 - INFO - loading config from:config.yaml
-2026-02-20 16:43:10 - INFO - config loaded : seed=42,window=5,version=v1
-2026-02-20 16:43:10 - INFO - Random seed set to:42
-2026-02-20 16:43:10 - INFO - loading data from missing.csv
-2026-02-20 16:43:10 - ERROR - File not found: Input file not found:missing.csv
