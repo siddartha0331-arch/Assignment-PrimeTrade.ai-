@@ -1,0 +1,52 @@
+2026-02-20 16:43:10 - INFO - job Started
+2026-02-20 16:43:10 - INFO - loading config from:config.yaml
+2026-02-20 16:43:10 - INFO - config loaded : seed=42,window=5,version=v1
+2026-02-20 16:43:10 - INFO - Random seed set to:42
+2026-02-20 16:43:10 - INFO - loading data from missing.csv
+2026-02-20 16:43:10 - ERROR - File not found: Input file not found:missing.csv
+2026-02-23 17:43:58 - INFO - job Started
+2026-02-23 17:43:58 - INFO - loading config from:config.yaml
+2026-02-23 17:43:58 - INFO - config loaded : seed=42,window=5,version=v1
+2026-02-23 17:43:58 - INFO - Random seed set to:42
+2026-02-23 17:43:58 - INFO - loading data from data.csv
+2026-02-23 17:43:58 - ERROR - Validation error:Missing required column 'close' in csv
+2026-02-25 19:29:56 - INFO - job Started
+2026-02-25 19:29:56 - INFO - loading config from:config.yaml
+2026-02-25 19:29:56 - INFO - config loaded : seed=42,window=5,version=v1
+2026-02-25 19:29:56 - INFO - Random seed set to:42
+2026-02-25 19:29:56 - INFO - loading data from data.csv
+2026-02-25 19:29:56 - ERROR - Validation error:Missing required column 'close' in csv
+2026-02-25 19:39:13 - INFO - job Started
+2026-02-25 19:39:13 - INFO - loading config from:config.yaml
+2026-02-25 19:39:13 - INFO - config loaded : seed=42,window=5,version=v1
+2026-02-25 19:39:13 - INFO - Random seed set to:42
+2026-02-25 19:39:13 - INFO - loading data from data.csv
+2026-02-25 19:39:13 - ERROR - Validation error:Error reading csv:'utf-8' codec can't decode byte 0xec in position 10: invalid continuation byte
+2026-02-25 19:48:52 - INFO - job Started
+2026-02-25 19:48:52 - INFO - loading config from:config.yaml
+2026-02-25 19:48:52 - INFO - config loaded : seed=42,window=5,version=v1
+2026-02-25 19:48:52 - INFO - Random seed set to:42
+2026-02-25 19:48:52 - INFO - loading data from data.csv
+2026-02-25 19:48:52 - ERROR - Validation error:Missing required column 'close' in csv
+2026-02-25 20:06:17 - INFO - job Started
+2026-02-25 20:06:17 - INFO - loading config from:config.yaml
+2026-02-25 20:06:17 - INFO - config loaded : seed=42,window=5,version=v1
+2026-02-25 20:06:17 - INFO - Random seed set to:42
+2026-02-25 20:06:17 - INFO - loading data from data.csv
+2026-02-25 20:06:17 - INFO - Data loaded :10000rows
+2026-02-25 20:06:17 - INFO - Calculating rolling mean with window =5and signal
+2026-02-25 20:06:17 - INFO - Rolling mean calculated and signal generated
+2026-02-25 20:06:17 - INFO - Metrics : signal_rate = 0.4989,rows_processed=10000,latency_ms=54
+2026-02-25 20:06:17 - INFO - Writing output to metrics.json
+2026-02-25 20:06:17 - INFO - Output written to metrics.json
+2026-02-25 20:09:11 - INFO - job Started
+2026-02-25 20:09:11 - INFO - loading config from:config.yaml
+2026-02-25 20:09:11 - INFO - config loaded : seed=42,window=5,version=v1
+2026-02-25 20:09:11 - INFO - Random seed set to:42
+2026-02-25 20:09:11 - INFO - loading data from data.csv
+2026-02-25 20:09:11 - INFO - Data loaded :10000rows
+2026-02-25 20:09:11 - INFO - Calculating rolling mean with window =5
+2026-02-25 20:09:11 - INFO - Rolling mean calculated and signal generated
+2026-02-25 20:09:11 - INFO - Metrics : signal_rate = 0.4989,rows_processed=10000,latency_ms=62
+2026-02-25 20:09:11 - INFO - Writing output to metrics.json
+2026-02-25 20:09:11 - INFO - Output written to metrics.json
